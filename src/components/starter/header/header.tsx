@@ -20,7 +20,7 @@ export default component$(() => {
             <Link href="/about">About</Link>
           </li>
           <li>
-            <Link href="/contact">Contact</Link>
+            <Link href="/contact1">Contact</Link>
           </li>
         </ul>
       </nav>
